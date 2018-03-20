@@ -1,0 +1,219 @@
+
+body {
+    background-color: #fff;
+    color: #777;
+    font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+
+
+}
+p {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+h1 {
+    font-family: 'Crete Round', serif;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 45px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
+h2 {
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 55px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 20px;
+}
+h3 {
+    font-size: 30px;
+    color: #444;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 20px;
+}
+h4 {
+    font-size: 24px;
+    color: #444;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+h5 {
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+a {
+    text-decoration: none;
+    color: #444;
+}
+a:hover {
+    color: #444;
+}
+strong {
+    font-weight: bold;
+}
+small {
+    font-size: 13px;
+    color: #777;
+    font-style: italic;
+}
+.clear {
+    clear: both;
+}
+.wrapper {
+    margin: 0 auto;
+    padding: 0 10px;
+    width: 940px;
+}
+
+header {
+background-color: #0062B1;  
+  height: 120px;
+  
+}
+header h1 {
+    float: left;
+    margin-top: 32px;
+}
+header h1 .color {
+    color: #02b8dd;
+}
+header nav {
+    float: right;
+}
+header nav ul li {
+    float: left;
+    display: inline-block;
+    margin-top: 50px;
+}
+header nav ul li a {
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin-right: 20px;
+}
+
+#features ul {
+    margin: 60px 0;
+}
+#features ul li {
+    width: 250px;
+    padding-top: 140px;
+    float: left;
+    margin-right: 10px;
+    text-align: center;
+    margin: 10px;
+}
+#features ul li.feature-1 {
+    background: url('../images/bookappointment.jpg') no-repeat top center;
+}
+#features ul li.feature-2 {
+    background: url('../images/pathlab.jpg') no-repeat top center;
+}
+#features ul li.feature-3 {
+    background: url('../images/record.png') no-repeat top center;
+}
+input[type=text] {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+    width: 100%;
+}
+
+#cta {
+    padding: 60px 0;
+    text-align: center;
+}
+#cta h3 {
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 400px;
+    border-bottom: 1px solid #1557BA;
+    padding: 0 0 20px 0;
+}
+.button-2 {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #0062B1;
+    color: #0062B1;
+    border-radius: 3px;
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+}
+.button-2:hover {
+    background-color: #0062B1;
+    color: #fff;
+}
+
+#bc_image img
+{
+    width:1440px;
+    height: 600px;
+    align-self: : 
+    opacity:0.2;
+    
+}
+
+
+.cities{
+margin-top: 100px;
+background-color: #D8D5D3;
+height: 400px;
+text-align: center;
+
+}
+
+.cities img
+{
+    width:100%;
+}
+
+.category{
+    margin-top: 50px;
+    background-color: white;
+    text-align: center;
+}
+.category img{
+    width: 100%;
+}
+.category1{
+    margin-top: -50px;
+    margin-left: 480px;
+    text-align: center;
+}
+.category1 img{
+    width: 100%;
+}
+
+.ehr{
+    margin-top: 50px;
+    background-color: #D8D5D3;
+    text-align: center;
+}
+.ehr img
+{
+    width: 300px;
+}
+.ehr p{
+    margin-left: 600px;
+    margin-bottom: 100px;
+}
+
+
+.cities h3:hover{
+    color:#0062B1;
+}
+
+

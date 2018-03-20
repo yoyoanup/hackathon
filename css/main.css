@@ -1,0 +1,70 @@
+.navbar{
+	background-color: #0062B1;
+}
+.navbar-nav li a{
+	color: #fff;
+
+}
+
+.navbar-nav li a:hover
+{
+	color: #0062B1;
+	background-color: #fff;
+	border: 0;
+	line-height: 1.45em;
+}
+.navbar-brand{
+	color: white;
+
+}
+
+.icon-bar{
+	background-color: white;
+}
+.navbar-nav li.active, .navbar-nav li.active a {
+	background-color: white;
+	color:#0062B1;
+}
+
+
+
+.cities{
+margin-top: -20px;
+background-color: #FFFDFC;
+height: 400px;
+text-align: center;
+
+}
+.features{
+	background-color: white;
+	margin-top: 70px;
+
+}
+.features img
+{
+    width:80%;
+}
+
+.cities img{
+	margin-top: 50px;
+	width: 100%;
+}
+.categories img
+{
+	width: 100%;
+}
+.ehr{
+	margin-top:110px;
+background-color:  #FFFDFC;
+height: 400px;
+text-align: center;
+}
+.ehr img{
+	width: 50%;
+}
+.footer{
+	margin-top: 300px;
+	background-color: #0062B1;
+}
+
+
